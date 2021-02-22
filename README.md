@@ -1,8 +1,8 @@
 # Sujet 28
 
-- Ce sujet comporte deux exercices.
+- Ce sujet comporte deux exercices: voir le PDF ci-joint
 
-Pour le premier exercice, vous devez écrire une fonction `convertir` (voir le PDF ci-joint)
+Pour le premier exercice, vous devez écrire une fonction `convertir`.
 
 Pour le deuxième, il s'agit de compléter le code fourni.
 
