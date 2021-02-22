@@ -1,6 +1,6 @@
 # Sujet 28
 
-- Ce sujet comporte deux exercices: voir le PDF ci-joint
+- Ce sujet comporte deux exercices : voir le PDF ci-joint
 
 Pour le premier exercice, vous devez écrire une fonction `convertir`.
 
